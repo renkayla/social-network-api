@@ -1,0 +1,33 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renkayla/social-network-api.git"
+  },
+  "keywords": [
+    "social",
+    "network",
+    "API",
+    "NoSQL",
+    "MongoDB",
+    "Express.js",
+    "Mongoose"
+  ],
+  "author": "Kayla",
+  "license": "SEE LICENSE IN <C:\\Users\\Kayla\\social-network-api\\social-network-api\\LICENSE>",
+  "bugs": {
+    "url": "https://github.com/renkayla/social-network-api/issues"
+  },
+  "homepage": "https://github.com/renkayla/social-network-api#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express.js": "^1.0.0",
+    "mongoose": "^7.3.1"
+  }
+}
