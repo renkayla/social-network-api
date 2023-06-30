@@ -2,8 +2,6 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-![part 1 API build](https://github.com/renkayla/social-network-api/assets/116777951/98ca8266-20c0-495f-aaf8-186fd9e90825)
-
 
 ## Description
 
