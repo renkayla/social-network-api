@@ -8,7 +8,7 @@ The NoSQL Challenge: Social Network API is a backend application built using Exp
 
 The objective of this challenge is to demonstrate proficiency in building and structuring an API using NoSQL technologies commonly employed by social networking platforms. By completing this challenge, you will gain a deeper understanding of how to handle data and create robust APIs for social network applications.
 
-To showcase the functionality and meet the acceptance criteria, a walkthrough video has been created. The video demonstrates the API's features, including the retrieval and manipulation of users, thoughts, reactions, and friend relationships. Please refer to the video linked below for a detailed demonstration:
+To showcase the functionality and meet the acceptance criteria, a series of walkthrough videos have been created. The videos demonstrate the API's features, including the retrieval and manipulation of users, thoughts, reactions, and friend relationships. Please refer to the videos linked below for a detailed demonstration:
 
 [server startup + POST new user + POST friends connection](https://drive.google.com/file/d/18Z4QFp7nnUY0TTSSP5oOLrrkZOC3AEsS/view)
 
