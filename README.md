@@ -95,5 +95,5 @@ This project is licensed under the terms of the MIT license. For more details, p
 
 If you have any questions or need further assistance, please feel free to contact me:
 
-GitHub: [YourGitHubUsername](https://github.com/renkayla)
-Email: [your-email@example.com](mailto:renkayla@gmail.com)
+GitHub: [renkayla](https://github.com/renkayla)
+Email: [renkayla@gmail.com](mailto:renkayla@gmail.com)
