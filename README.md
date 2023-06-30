@@ -18,7 +18,7 @@ To showcase the functionality and meet the acceptance criteria, a series of walk
 
 [DELETE friends + DELETE user by id + GET users](https://drive.google.com/file/d/1WYkJPLrl-de-PKbopwynldDrgG-Dx8Ja/view)
 
-[mongodbcompass](https://drive.google.com/file/d/1e24qXHkUvckDPbSh92oKrEhRb2UeHrRQ/view)
+[MongoDB Compass](https://drive.google.com/file/d/1e24qXHkUvckDPbSh92oKrEhRb2UeHrRQ/view)
 
 ## Table of Contents
 
