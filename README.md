@@ -10,7 +10,15 @@ The objective of this challenge is to demonstrate proficiency in building and st
 
 To showcase the functionality and meet the acceptance criteria, a walkthrough video has been created. The video demonstrates the API's features, including the retrieval and manipulation of users, thoughts, reactions, and friend relationships. Please refer to the video linked below for a detailed demonstration:
 
-[API Walkthrough Video](<insert-link-to-your-video-here>)
+[server startup + POST new user + POST friends connection](https://drive.google.com/file/d/18Z4QFp7nnUY0TTSSP5oOLrrkZOC3AEsS/view)
+
+[PUT update user + GET user by Id + GET all users](https://drive.google.com/file/d/1g3h1GlrVKyMVkJtGWJUy8ZesbM2uBPdc/view)
+
+[POST new thought + PUT update thought + POST reactions + DELETE user by id + GET thought by id + DELETE reactions](https://drive.google.com/file/d/1jgJZqZyZmWKMXB4mGTwJVbGDr-VX4z6O/view)
+
+[DELETE friends + DELETE user by id + GET users](https://drive.google.com/file/d/1WYkJPLrl-de-PKbopwynldDrgG-Dx8Ja/view)
+
+[mongodbcompass](https://drive.google.com/file/d/1e24qXHkUvckDPbSh92oKrEhRb2UeHrRQ/view)
 
 ## Table of Contents
 
