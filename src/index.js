@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 const apiRoutes = require('./routes/apiRoutes');
 
 const app = express();
-const PORT = 3000;
+const PORT = 3001;
 
 // Connect to MongoDB database
 mongoose.connect('mongodb://localhost/social-network', {
