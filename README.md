@@ -2,6 +2,9 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
+![part 1 API build](https://github.com/renkayla/social-network-api/assets/116777951/98ca8266-20c0-495f-aaf8-186fd9e90825)
+
+
 ## Description
 
 The NoSQL Challenge: Social Network API is a backend application built using Express.js, MongoDB, and Mongoose. This API serves as the foundation for a social network web application where users can share their thoughts, react to friends' thoughts, and manage their friend list. It leverages the power of MongoDB, a popular NoSQL database, to handle large amounts of unstructured data efficiently. The Mongoose ODM is used to model and interact with the MongoDB database.
