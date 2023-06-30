@@ -10,7 +10,7 @@ The objective of this challenge is to demonstrate proficiency in building and st
 
 To showcase the functionality and meet the acceptance criteria, a series of walkthrough videos have been created. The videos demonstrate the API's features, including the retrieval and manipulation of users, thoughts, reactions, and friend relationships. Please refer to the videos linked below for a detailed demonstration:
 
-[server startup + POST new user + POST friends connection](https://drive.google.com/file/d/18Z4QFp7nnUY0TTSSP5oOLrrkZOC3AEsS/view)
+[Server startup + POST new user + POST friends connection](https://drive.google.com/file/d/18Z4QFp7nnUY0TTSSP5oOLrrkZOC3AEsS/view)
 
 [PUT update user + GET user by Id + GET all users](https://drive.google.com/file/d/1g3h1GlrVKyMVkJtGWJUy8ZesbM2uBPdc/view)
 
